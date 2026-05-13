@@ -1,1 +1,1 @@
-# C-calc
+# calc-c
