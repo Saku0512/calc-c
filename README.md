@@ -17,8 +17,8 @@ make run
 Enter expressions in this format:
 
 ```text
-10 + 5
-8 / 2
+10+5
+8/2
 ```
 
 Type `quit` to exit.
