@@ -2,6 +2,14 @@
 
 Simple calculator CLI written in C.
 
+## Install
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Saku0512/calc-c/main/install.sh | sh
+```
+
+By default this installs `calcc` to `~/.local/bin`.
+
 ## Build
 
 ```bash
