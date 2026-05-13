@@ -47,8 +47,6 @@ int main() {
             continue;
         }
 
-        printf("prefix: %s\n", prefix);
-
         if (op == '/' && b == 0) {
             printf("Cannot divide by 0.\n");
             continue;
