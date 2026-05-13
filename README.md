@@ -19,6 +19,8 @@ Enter expressions in this format:
 ```text
 10+5
 8/2
+1+2*3
+(1+2)*3
 ```
 
 Type `quit` to exit.
